@@ -1,6 +1,6 @@
 ### I have migrated my projects to my personal Gitea server.
 
-You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me).
+You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me/projects).
 
 <!--
 **Zambito1/Zambito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
