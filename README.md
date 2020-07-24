@@ -2,6 +2,8 @@
 
 You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me/projects).
 
+If you wish to contribute to projects on my Gitea, but you don't want to create an account, you can sign in using Github or Discord.Zambito1/Shibo
+
 <!--
 **Zambito1/Zambito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
