@@ -1,6 +1,6 @@
 ### I have migrated my projects to my personal Gitea server.
 
-You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me/projects).
+You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me).
 
 If you wish to contribute to projects on my Gitea, but you don't want to create an account, you can sign in using Github or Discord.
 
