@@ -1,8 +1,9 @@
-### I have migrated my projects to my personal Gitea server.
+### I have migrated my projects to my personal cgit server.
 
 You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me).
 
-If you wish to contribute to projects on my Gitea, but you don't want to create an account, you can sign in using Github or Discord.
+If you wish to contribute to projects on my cgit, simply email me a patch.
+My email is in my git logs and on [my about page](https://robbyzambito.me/about/).
 
 <!--
 **Zambito1/Zambito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
