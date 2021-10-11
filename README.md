@@ -1,6 +1,6 @@
 ### I have migrated my projects to my personal cgit server.
 
-You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me/Zambyte) or on my personal website at [robbyzambito.me](https://robbyzambito.me).
+You can find my projects at [git.robbyzambito.me](https://git.robbyzambito.me) or on my personal website at [robbyzambito.me](https://robbyzambito.me).
 
 If you wish to contribute to projects on my cgit, simply email me a patch.
 My email is in my git logs and on [my about page](https://robbyzambito.me/about/).
